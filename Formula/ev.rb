@@ -1,5 +1,5 @@
 class Ev < Formula
-  desc "Everything-style terminal file searcher (rg + fzf + fd) with office-doc extraction"
+  desc "Everything-style terminal file search with office-document extraction"
   homepage "https://github.com/seongilp/ev"
   url "https://github.com/seongilp/ev/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "8faa3ea962acd6fefcfd0cd5ac5f20b59758c4eb8d25c35e413e0c567ee52037"
