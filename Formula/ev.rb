@@ -1,8 +1,8 @@
 class Ev < Formula
   desc "Everything-style terminal file search with office-document extraction"
   homepage "https://github.com/seongilp/ev"
-  url "https://github.com/seongilp/ev/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "8faa3ea962acd6fefcfd0cd5ac5f20b59758c4eb8d25c35e413e0c567ee52037"
+  url "https://github.com/seongilp/ev/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "dd9dd456ea8aeb7e60d92908eb3cd6a02c3adf76fb185dac845daec1fbcdfae7"
   license "MIT"
   head "https://github.com/seongilp/ev.git", branch: "main"
 
